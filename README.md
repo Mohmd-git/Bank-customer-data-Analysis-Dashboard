@@ -3,6 +3,8 @@
 Welcome to the Banking Dashboard project! This Power BI solution is designed to analyze and visualize key metrics in the banking sector, enabling smarter, data-driven decisions. 📊✨
 
 ✨ Features
+
+
 🎯 Comprehensive Visualizations: Interactive charts and graphs to uncover meaningful insights.
 
 📈 KPIs Monitoring: Track vital banking metrics like revenue, expenses, and customer growth.
@@ -10,6 +12,9 @@ Welcome to the Banking Dashboard project! This Power BI solution is designed to 
 🔍 Drill-Down Functionality: Dive deep into data for granular analysis.
 
 🎛️ Custom Filters: Explore the data using dynamic filters like time, region, and customer segments.
+
+
+
 
 🔍 Data Insights
 This dashboard empowers users with the following insights:
